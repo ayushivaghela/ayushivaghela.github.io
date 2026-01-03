@@ -1,6 +1,6 @@
 # Ayushi Vaghela
 
-XXMedical Biosciences (Genetics) | Science Communication | Medical & Healthcare Content
+Medical Biosciences (Genetics) | Science Communication | Medical & Healthcare Content
 
 > *Science is only half the story. The other half is how clearly, accurately, and responsibly it is told.*
 
