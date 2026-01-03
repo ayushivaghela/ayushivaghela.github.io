@@ -3,24 +3,43 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
 body {
+  fbody {
   font-family: 'Poppins', sans-serif;
-  background-color: #f7faff;
-  color: #333;
+  background-color: #0d1117;
+  color: #c9d1d9;
   line-height: 1.6;
 }
+
+/* Glassmorphism container */
+main, .container-lg, .markdown-body, .page {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  padding: 2rem;
+  margin: 1rem auto;
+}
+
 h1, h2, h3 {
-  color: #014f86;
+  color: #58a6ff;
   font-weight: 600;
 }
+
+a {
+  color: #58a6ff;
+}
+
 blockquote {
-  border-left: 4px solid #00aaff;
+  border-left: 4px solid #58a6ff;
   padding-left: 1em;
-  background-color: #e6f5ff;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #c9d1d9;
 }
+
 hr {
-  border-top: 1px solid #dce6f1;
-}
-</style>
+  border-top: 1px solid #30363d;
+}</style>
 
 <script type="module">
 import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
