@@ -5,38 +5,40 @@
 body {
    
    font-family: 'Poppins', sans-serif;
-    background-color: #0d1117 !important;
-    color: #c9d1d9 !important;
+        background-color: #f7faff;
+   
+    color: #1f2937;
     line-height: 1.6;
 }
 main, .container-lg, .markdown-body, .page {
-  background: rgba(255, 255, 255, 0.08) !important;
+    background: rgba(255, 255, 255, 0.8);
   border-radius: 12px;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
   padding: 2rem;
   margin: 1rem auto;
 }
 
 h1, h2, h3 {
-  color: #58a6ff;
+      color: #014f86;
   font-weight: 600;
 }
 
 a {
-color: #58a6ff;
+    color: #014f86;
 }
 
 blockquote {
-  border-left: 4px solid #58a6ff;
+      border-left: 4px solid #014f86;
+   
   padding-left: 1em;
-  background-color: rgba(255, 255, 255, 0.1);
-  color: #c9d1d9;
+      background-color: rgba(229, 241, 251, 0.8);
+      color: #1f2937;
 }
 
 hr {
-  border-top: 1px solid #30363d;
+      border-top: 1px solid #e5e7eb;
 }</style>
 
 <script type="module">
@@ -57,6 +59,6 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   }, { threshold: 0.1 });
-  elements.forEach(el => observer.observe(el));
+      
 });
 </script>
