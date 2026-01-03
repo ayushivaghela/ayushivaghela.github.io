@@ -1,2 +1,8 @@
 # ayushivaghela.github.io
-My Professional Portfolio
+About Me
+
+Skills
+
+Projects
+
+Contact
