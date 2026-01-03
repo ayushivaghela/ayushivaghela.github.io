@@ -1,6 +1,17 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" integrity="sha512-B2r3EwkOvmcapDEty8E9vrFica8tWHZcizxgxYkWwaP42Cik+zejne+uO3/n9JW64WHfiuKm6XfXZCkzF4h83w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({startOnLoad: true, theme: 'neutral'});
-  await mermaid.run({querySelector: 'code.language-mermaid'});
-</script>
+import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
 
+mermaid.initialize({ startOnLoad: true, theme: 'neutral' });
+await mermaid.run({ querySelector: 'code.language-mermaid' });
+
+// Add animation classes to headings
+document.addEventListener('DOMContentLoaded', () => {
+  const headings = document.querySelectorAll('h1, h2, h3');
+  headings.forEach((heading, index) => {
+heading.classList.add('animate__animated', 'animate__fadeInUp');
+    heading.style.setProperty('--animate-duration', '1s');
+    heading.style.setProperty('--animate-delay', `${index * 0.2}s`);
+  });
+});
+</script>
