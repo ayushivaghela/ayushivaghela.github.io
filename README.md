@@ -5,7 +5,11 @@ Medical Biosciences (Genetics) | Science Communication | Medical & Healthcare Co
 > *Science is only half the story. The other half is how you say it.*
 
 ---
-
+---
+layout: page
+title: "About"
+permalink: /about/
+---
 ## 👋 About Me
 
 I am an MSc Medical Biosciences (Genetics) graduate with a strong foundation in **molecular biology, cancer research, and data analysis**, paired with hands-on experience in **medical writing, healthcare content editing, and science communication**.
