@@ -33,7 +33,7 @@ My work sits at the intersection of **research, communication, and impact**. I t
 
 ### 1. MDM2 Inhibitors in Mature Lymphoid Malignancies
 
-**Master’s Dissertation | University of Leicester**
+Master’s Dissertation | University of Leicester
 
 **Objective:** Evaluate the efficacy of MDM2 inhibitors (AMG232, ASTX295, Idasanutlin) in cancer cell survival.
 
@@ -57,7 +57,7 @@ C --> D[Therapeutic Insight]
 
 ### 2. Identifying Genes Causing Side-Effects Post-Radiotherapy in Breast Cancer
 
-**Year 3 Dissertation | Distinction**
+Year 3 Dissertation | Distinction
 
 **Objective:** Identify genetic contributors to adverse radiotherapy side effects.
 
@@ -82,7 +82,7 @@ D --> E[Clinical Implications]
 
 ### 3. T Cell Density and Function in Patient-Derived Explants
 
-**Research Project | University of Leicester**
+Research Project | University of Leicester
 
 * Tumour immunology focus
 * Functional assessment of immune response
@@ -156,7 +156,7 @@ I designed a minimalistic experiential map for the University of Leicester Open 
 
 ### Brand Ambassador Roles
 
-**GSK | AstraZeneca**
+GSK | AstraZeneca
 
 * Promoted scientific careers and industry opportunities
 * Designed posters, leaflets, and digital assets (Canva)
