@@ -27,7 +27,79 @@ My work sits at the intersection of **research, communication, and impact**. I t
 * **Science Communication**
   Public engagement, editorial clarity, educational storytelling
 
----
+--
+## 📝 Medical Editing & Writing
+
+I edit and review evidence-based medical content for digital health platforms, ensuring clinical accuracy, clarity, and audience-appropriate communication across patient- and professional-facing materials.
+
+<div class="card-grid">
+  <div class="card">
+    <h4>Etiology of Fryns Syndrome</h4>
+    <p><span class="tag">Genetics</span> <span class="tag">Patient Education</span></p>
+    <p><a href="https://my.klarity.health/etiology-of-fryns-syndrome-understanding-the-genetic-causes-and-risk-factors-associated-with-fryns-syndrome/">View article →</a></p>
+  </div>
+  <div class="card">
+    <h4>Prolactinoma: Diagnosis and Treatment</h4>
+    <p><span class="tag">Endocrinology</span> <span class="tag">Patient Education</span></p>
+    <p><a href="https://my.klarity.health/prolactinoma-diagnosis-and-treatment/">View article →</a></p>
+  </div>
+  <div class="card">
+    <h4>Surgical Debridement in Fournier Gangrene</h4>
+    <p><span class="tag">Infectious Disease</span> <span class="tag">Clinical Procedure</span></p>
+    <p><a href="https://my.klarity.health/surgical-debridement-in-fournier-gangrene/">View article →</a></p>
+  </div>
+  <div class="card">
+    <h4>Causes of Uterine Fibroids</h4>
+    <p><span class="tag">Gynecology</span> <span class="tag">Patient Education</span></p>
+    <p><a href="https://my.klarity.health/causes-of-uterine-fibroids/">View article →</a></p>
+  </div>
+  <div class="card">
+    <h4>Why Behaviour Change Is Still Essential on GLP-1s</h4>
+    <p><span class="tag">Metabolism</span> <span class="tag">Behaviour Change</span></p>
+    <p><a href="https://my.klarity.health/why-behaviour-change-is-still-essential-on-glp-1s/">View article →</a></p>
+  </div>
+  <div class="card">
+    <h4>Primary vs. Secondary Causes of Hormonal Imbalance</h4>
+    <p><span class="tag">Endocrinology</span> <span class="tag">Pathophysiology</span></p>
+    <p><a href="https://my.klarity.health/primary-vs-secondary-causes-of-hormonal-imbalance/">View article →</a></p>
+  </div>
+  <div class="card">
+    <h4>How Do ARBs Compare to ACE Inhibitors in Terms of Effectiveness for Heart Enlargement?</h4>
+    <p><span class="tag">Cardiology</span> <span class="tag">Pharmacology</span></p>
+    <p><a href="https://my.klarity.health/how-do-arbs-compare-to-ace-inhibitors-in-terms-of-effectiveness-for-heart-enlargement/">View article →</a></p>
+  </div>
+  <div class="card">
+    <h4>Early-Stage Metastatic Breast Cancer</h4>
+    <p><span class="tag">Oncology</span> <span class="tag">Patient Education</span></p>
+    <p><a href="https://my.klarity.health/early-stage-metastatic-breast-cancer/">View article →</a></p>
+  </div>
+</div>
+
+## 🧛‍♀️ Editorial Capabilities
+
+- Clinical fact-checking and citation verification
+- Structural and line editing for clarity and flow
+- Translating complex mechanisms for non-specialist audiences
+- Working to editorial guidelines and house style
+- Managing multiple deadlines and article pipelines
+- WordPress content preparation and basic SEO
+- Cross-functional collaboration with reviewers and content teams
+
+## ✍️ How I Work as a Medical Editor
+
+- I start with the audience, not the data
+- Accuracy before aesthetics; structure before style
+- Feedback and iteration are non-negotiable
+- I work best in collaborative, deadline-driven environments
+
+~~~mermaid
+flowchart LR
+    A[Research & Evaluation] --> B[Editorial Review]
+    B --> C[Audience Adaptation]
+    C --> D[Publication]
+~~~
+
+
 
 ## 🔬 Research Portfolio
 
