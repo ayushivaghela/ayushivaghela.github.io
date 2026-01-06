@@ -179,37 +179,6 @@ C --> D[Statistical Analysis]
 D --> E[Biological Interpretation]
 ```
 
----
-
-## ✍️ Medical Writing & Editorial Experience
-
-### Healthcare Content Editing
-
-**Klarity Health – Medical Content Intern**
-
-* Edited evidence-based healthcare articles
-* Ensured clinical accuracy and clarity
-* Simplified complex conditions for patient understanding
-
-**Example Topics:**
-
-* Rare genetic syndromes
-* Disease etiology & risk factors
-* * Patient-friendly medical explanations
-
-#### Published Medical Articles
-
-Below is a selection of medical articles I reviewed for Klarity Health's Health Library:
-
-- [Etiology of Fryns Syndrome: Understanding the Genetic Causes and Risk Factors Associated with Fryns Syndrome](https://my.klarity.health/etiology-of-fryns-syndrome-understanding-the-genetic-causes-and-risk-factors-associated-with-fryns-syndrome/)
-- [Prolactinoma: Diagnosis and Treatment](https://my.klarity.health/prolactinoma-diagnosis-and-treatment/)
-- [Surgical Debridement in Fournier Gangrene](https://my.klarity.health/surgical-debridement-in-fournier-gangrene/)
-- [Causes of Uterine Fibroids](https://my.klarity.health/causes-of-uterine-fibroids/)
-- [Why Behaviour Change Is Still Essential on GLP-1s](https://my.klarity.health/why-behaviour-change-is-still-essential-on-glp-1s/)
-- [Primary vs. Secondary Causes of Hormonal Imbalance](https://my.klarity.health/primary-vs-secondary-causes-of-hormonal-imbalance/)
-- [How Do ARBs Compare to ACE Inhibitors in Terms of Effectiveness for Heart Enlargement?](https://my.klarity.health/how-do-arbs-compare-to-ace-inhibitors-in-terms-of-effectiveness-for-heart-enlargement/)
-- [Early-Stage Metastatic Breast Cancer](https://my.klarity.health/early-stage-metastatic-breast-cancer/)
-
 #### University Open Day Experiential Map
 
 I designed a minimalistic experiential map for the University of Leicester Open Day, researching numerous undergraduate courses to curate sessions and following the university’s branding guidelines. The map acts as a concise itinerary to help prospective students navigate the campus and discover programs of interest.
