@@ -179,16 +179,14 @@ C --> D[Statistical Analysis]
 D --> E[Biological Interpretation]
 ```
 
-#### University Open Day Experiential Map
+#### University Open Day Journey Map: Content and Experience Design
 
-I designed a minimalistic experiential map for the University of Leicester Open Day, researching numerous undergraduate courses to curate sessions and following the university’s branding guidelines. The map acts as a concise itinerary to help prospective students navigate the campus and discover programs of interest.
+During my summer internship with the University of Leicester’s Career Development Services, I conceived and delivered a journey map from scratch to guide prospective students through the Open Day. I began by researching dozens of undergraduate programmes and speaking with faculty, tutors, career advisors, student societies and committees to understand what visitors needed to know. I planned the content flow, designed templates aligned with the university’s brand, and worked closely with the marketing team to finalise a clear, minimalist layout. After multiple rounds of editing and feedback, I compiled everything onto a single page that included session timings, key locations and curated pathways.
 
-- Conducted research on a variety of undergraduate programmes to tailor content to prospective students’ interests.
-- Designed a clean, minimalistic layout consistent with University of Leicester branding.
-- Included essential information such as session timings and key locations to help visitors navigate the Open Day.
-- Provided both digital and printed versions to enhance accessibility.
+The final journey map, printed and distributed in the Career Hub as well as shared digitally, provided an accessible, user-friendly resource that improved the Open Day experience for every visitor.
 
 [View the Open Day map template](./Final%20template%20Criminology.pptx)
+
 
 
 ---
