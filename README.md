@@ -252,7 +252,7 @@ I am particularly interested in opportunities where **scientific accuracy, clari
 ## 📬 Contact
 
 * **Email:** [ayushivaghela18@gmail.com](mailto:ayushivaghela18@gmail.com)
-* **LinkedIn:** linkedin.com/in/ayushi-vaghela-076741214
+* **LinkedIn:** https://www.linkedin.com/in/ayushi-vaghela-076741214
 
 ---
 
