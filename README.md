@@ -13,6 +13,33 @@ My work sits at the intersection of **research, communication, and impact**. I t
 
 
 
+## Highlights
+
+- Edited and reviewed multiple medical articles weekly for Klarity Health, ensuring clinical accuracy, structure, and readability.
+- Led the University of Leicester Open Day journey map project from concept through research, content planning, design, and final delivery.
+- Extensive research background in molecular biology, cancer research, and genetics, translating complex data into clear, evidence-driven narratives.
+
+## Skills & Competencies
+
+### Editorial & Communication
+- Medical and healthcare writing and editing
+- Structural and line editing for clarity and flow
+- Fact-checking and citation verification
+- Adapting tone for patient and professional audiences
+
+### Scientific & Research
+- Critical appraisal and literature synthesis
+- Translational insight across oncology, genetics, and immunology
+- Experimental design and data analysis
+
+### Tools & Platforms
+- GraphPad Prism, Cytoscape, STRING, GTeX
+- Canva, Piktochart, Adobe suite
+- Microsoft Office and Google Workspace
+- WordPress and basic SEO for web content
+
+
+
 ## 🧠 Core Focus Areas
 
 * **Medical & Healthcare Writing**
